@@ -7,7 +7,7 @@ Aplikasi ini memiliki fitur-fitur diantaranya:
 | Fitur                                                                 | Keterangan                                                                 |
 |-----------------------------------------------------------------------|----------------------------------------------------------------------------|
 | ✏️ Tambah, Edit, dan Hapus Jadwal                                | Pengguna dapat menambah, mengedit, dan menghapus jadwal kegiatan          |
-| 🎨 Warna berbeda untuk dua jenis kegiatan                             | Kuliah berwarna **merak muda**, organisasi berwarna **krem** |
+| 🎨 Warna berbeda untuk dua jenis kegiatan                             | Kuliah berwarna **merah muda**, organisasi berwarna **krem** |
 | 📅 Jadwal otomatis diurutkan berdasarkan hari                         | Jadwal ditampilkan berdasarkan urutan Senin → Jumat                       |
 | 💾 Data disimpan di localStorage                                      | Jadwal akan tetap tersimpan meskipun browser ditutup atau direfresh       |
 
