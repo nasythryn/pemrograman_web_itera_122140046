@@ -3,10 +3,14 @@ Aplikasi Dashboard Jadwal Kuliah dan Organisasi
 # Fungsi dan Fitur-Fitur
 Aplikasi ini adalah aplikasi web sederhana berbasis JavaScript untuk membantu dalam mengatur jadwal kuliah dan kegiatan organisasi dalam satu tempat. Dibuat sebagai tugas praktikum JavaScript Next Gen.
 Aplikasi ini memiliki fitur-fitur diantaranya:
-✅ Tambah, edit, dan hapus jadwal kegiatan
-✅ Warna berbeda untuk dua kegiatan: merak muda untuk kuliah, krem untuk organisasi
-✅ Jadwal otomatis diurutkan berdasarkan hari Senin - Jumat
-✅ Data disimpan di localStorage
+
+| Fitur                                                                 | Keterangan                                                                 |
+|-----------------------------------------------------------------------|----------------------------------------------------------------------------|
+| ✏️ Tambah, Edit, dan Hapus Jadwal                                | Pengguna dapat menambah, mengedit, dan menghapus jadwal kegiatan          |
+| 🎨 Warna berbeda untuk dua jenis kegiatan                             | Kuliah berwarna **merak muda**, organisasi berwarna **krem** |
+| 📅 Jadwal otomatis diurutkan berdasarkan hari                         | Jadwal ditampilkan berdasarkan urutan Senin → Jumat                       |
+| 💾 Data disimpan di localStorage                                      | Jadwal akan tetap tersimpan meskipun browser ditutup atau direfresh       |
+
 
 # Dokumentasi Aplikasi
 Berikut tampilan aplikasi dashboard jadwal yang dibuat.
