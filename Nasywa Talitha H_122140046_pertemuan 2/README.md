@@ -10,6 +10,7 @@ Aplikasi ini memiliki fitur-fitur diantaranya:
 
 # Dokumentasi Aplikasi
 Berikut tampilan aplikasi dashboard jadwal yang dibuat.
+
 ![Tampilan Aplikasi](./dokumentasi.PNG)
 
 # Daftar Fitur ES6+ yang Digunakan
