@@ -1,0 +1,23 @@
+.book-filter {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 1.5rem;
+}
+  
+.book-filter select {
+    padding: 0.4rem;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+    font-size: 14px;
+}
+  
+.book-filter input {
+    width: 200px;
+    padding: 0.4rem;
+    border-radius: 10px;
+    font-size: 14px;
+    border: 1px solid #ccc;
+}
+  
