@@ -3,11 +3,12 @@ Aplikasi ini adalah aplikasi manajemen buku sederhana yang memungkinkan untuk me
 
 # Instalasi dan Running Code
 1. Clone repository ini
-   <pre> ```bash git clone https://github.com/nasythryn/pemrograman_web_itera_122140046.git cd NasywaTalitha_122140046_pertemuan3 npm install npm start``` </pre>
+   <pre> git clone https://github.com/nasythryn/pemrograman_web_itera_122140046.git
+      cd NasywaTalitha_122140046_pertemuan3 npm install npm start </pre>
 2. Install dependensi (pastikan sudah menginstall Node.js dan npm)
-   <pre> ```bash npm install``` </pre>
+   <pre> npm install </pre>
 3. Setelah berhasil terinstall, jalankan dengan perintah berikut
-   <pre> ```bash npm start``` </pre>
+   <pre> npm start </pre>
 4. Selanjutnya, project akan berjalan di browser anda di:`http://localhost:3000`.
 
 # Tampilan Antarmuka
