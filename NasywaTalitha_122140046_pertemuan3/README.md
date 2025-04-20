@@ -4,7 +4,7 @@ Aplikasi ini adalah aplikasi manajemen buku sederhana yang memungkinkan untuk me
 # Instalasi dan Running Code
 1. Clone repository ini
    <pre> git clone https://github.com/nasythryn/pemrograman_web_itera_122140046.git
-   cd NasywaTalitha_122140046_pertemuan3 npm install npm start </pre>
+    cd NasywaTalitha_122140046_pertemuan3 npm install npm start </pre>
 2. Install dependensi (pastikan sudah menginstall Node.js dan npm)
    <pre> npm install </pre>
 3. Setelah berhasil terinstall, jalankan dengan perintah berikut
@@ -18,7 +18,7 @@ Aplikasi ini adalah aplikasi manajemen buku sederhana yang memungkinkan untuk me
 Halaman beranda merupakan halaman utama dalam manajemen koleksi buku. Halaman ini menampilkan buku-buku yang ditambahkan. Di halaman inilah pengguna menambahkan koleksi bukunya, mengedit, dan memperbarui buku-bukunya.
 
 ## Halaman Statistik
-![Tampilan Statistik](./stats page.PNG)
+![Tampilan Statistik](./statspage.PNG)
 Halaman statistik ini menampilkan statistik jumlah buku yang ditambahkan berdasarkan statusnya. Terdapat 3 status yang ada di aplikasi ini, yaitu `Dimiliki`, `Sedang Dibaca`, dan `Ingin Dibeli`.
 
 # Fitur React yang Digunakan
